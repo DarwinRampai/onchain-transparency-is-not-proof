@@ -1,0 +1,33 @@
+{
+  "title": "Onchain Transparency Is Not Proof",
+  "author": "Darwin Rampai",
+  "affiliation": "Independent Researcher",
+  "publication_date": "2026-07-11",
+  "version": "1.1",
+  "files": [
+    {
+      "name": "Onchain Transparency Is Not Proof - Darwin Rampai - 2026.pdf",
+      "sha256": "475ec0952f9c7fa4e79d1a1e01823e5181dfbc62c219c80e8b27a02b885173d8"
+    },
+    {
+      "name": "Claim-to-Evidence Matrix.md",
+      "sha256": "79baa6688d985052955a1e61b1a5df996a8babff11ea6b0d8ab44632f6f4b249"
+    },
+    {
+      "name": "Evidence Reconstruction Sequence.png",
+      "sha256": "204741e537278d373a11f925cca7599ffb3197080609e7a5f956af79aa6ae1e9"
+    },
+    {
+      "name": "Experiment Index.md",
+      "sha256": "751df62b96ff043b85632be06bef392c9ca1a1c5658deefbb0fd41cc06598617"
+    },
+    {
+      "name": "Limitations and Unknowns.md",
+      "sha256": "7978ae526b7fd0504175690703b980139d1448fd70edee17e4f40b531b80b193"
+    },
+    {
+      "name": "Reproducibility Statement.md",
+      "sha256": "b2c99c593eb3469cbeadfd21431f2b67bb8c78bfe8e57d3d63c9314cf2776162"
+    }
+  ]
+}
