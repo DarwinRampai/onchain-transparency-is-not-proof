@@ -17,6 +17,12 @@ Repository: https://github.com/DarwinRampai/onchain-transparency-is-not-proof
 
 This working paper reports twenty bounded Aave V3 Ethereum experiments showing why public event history, exact-block state, derived measurements, causal explanation, historical action, and authority provenance must remain distinct evidence classes.
 
+## Evidence-chain excerpt
+
+[*A Transaction Is Not Its Authorization Chain*](./EVIDENCE_CHAIN_EXCERPT.md)
+
+The transaction proves execution. A governance conclusion requires the rest of the evidence chain.
+
 ## Evidence package
 
 - [Experiment Index](./evidence/Experiment%20Index.md)
